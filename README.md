@@ -9,10 +9,10 @@ Welcome to my personal portfolio! I'm Vishali, a passionate front-end developer 
 =>Contact
 =>License
 
-About Me
+About Me:
 I am a versatile web developer with a focus on front-end development, UI/UX design, and Python programming. I aim to build beautiful and functional websites with the perfect blend of creativity and technical expertise.
 
-Skills
+Skills:
 Frontend: HTML, CSS, JavaScript
 Backend: PHP, Java, Python, C
 Database: MySQL
@@ -24,7 +24,7 @@ Typed.js - Dynamic typing effect for the homepage
 ScrollReveal - Scroll animations for content reveal
 Icons - Unicons for social media and UI elements
 
-Projects
+Projects:
 Here are some of the featured projects in my portfolio:
 Salary Analysis using PowerBI
 View Project
